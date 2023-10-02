@@ -25,20 +25,24 @@ RENAME: This is used to rename an object existing in the database.
 
 
 ### OUTPUT:
+![output](https://github.com/AdhithiyanK/F2_DBMS/assets/121029258/e93b8c68-6103-4c3d-bc79-41a19c7c39fb)
+
 
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
 
 ### OUTPUT:
+![op](https://github.com/AdhithiyanK/F2_DBMS/assets/121029258/a453dd1d-90a3-498b-8f49-4f8c956c6ac1)
 
 
 ### 3) Drop the student table
  
 ### SQL QUERY: 
 
+ ### OUTPUT:
+ ![op1](https://github.com/AdhithiyanK/F2_DBMS/assets/121029258/7166c862-ebdd-43f2-9ac7-b5d2a15d9710)
 
-### OUTPUT:
 
 
 ### 4) Delete the student table using truncate keyword
@@ -48,6 +52,7 @@ RENAME: This is used to rename an object existing in the database.
 
 ### OUTPUT:
 
+![op2](https://github.com/AdhithiyanK/F2_DBMS/assets/121029258/c1e91078-ebe7-4df9-9d5c-ec7d5751585b)
 
 
 ### 5) Rename the student table to mystudent
@@ -56,3 +61,6 @@ RENAME: This is used to rename an object existing in the database.
 
 
 ### OUTPUT:
+![op3](https://github.com/AdhithiyanK/F2_DBMS/assets/121029258/68d2f1b4-71f0-42af-95d6-d56481e4675a)
+
+
